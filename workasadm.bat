@@ -1,0 +1,3 @@
+
+python shutdown.py
+pause
